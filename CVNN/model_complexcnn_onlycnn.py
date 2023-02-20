@@ -105,6 +105,6 @@ class base_complex_model(nn.Module):
         return embedding, output
 
 if __name__ == "__main__":
-    input = torch.randn((10,2,4800))
+    input = torch.randn((10,2,6000))
     model = base_complex_model()
     embedding, output = model(input)
