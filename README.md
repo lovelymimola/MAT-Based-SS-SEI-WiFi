@@ -1,5 +1,3 @@
-# MAT-Based-SS-SEI-WiFi
-
 # requirement
 pytorch 1.10.2 python 3.6.13
 
