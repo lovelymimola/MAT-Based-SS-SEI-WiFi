@@ -1,7 +1,9 @@
 # MAT-Based SS-SEI Method
 
 # requirement
-pytorch 1.10.2 python 3.6.13
+pytorch 1.10.2
+
+python 3.6.13
 
 # Description
 paper: https://ieeexplore.ieee.org/document/10026879 or https://arxiv.org/pdf/2211.15379.pdf
