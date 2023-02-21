@@ -1,9 +1,9 @@
 # MAT-Based-SS-SEI-WiFi
 
-#requirement
+# requirement
 pytorch 1.10.2 python 3.6.13
 
-#Description
+# Description
 paper: https://ieeexplore.ieee.org/document/10026879 or https://arxiv.org/pdf/2211.15379.pdf
 
 This is code of MAT-based SS-SEI for WiFi dataset.
