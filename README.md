@@ -1,3 +1,5 @@
+# MAT-Based SS-SEI Method
+
 # requirement
 pytorch 1.10.2 python 3.6.13
 
